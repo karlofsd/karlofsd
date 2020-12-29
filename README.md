@@ -8,13 +8,13 @@ Me considero **autodidacta** con muchas ganas de adquirir nuevas experiencias y 
 
 ## ⚡ Competencias
 
-- Desarrollo de aplicaciones web :globe_with_meridians:
-- Desarrollo de aplicaciones móviles :iphone:
-- Entorno Linux & Windows 
-- Mantenimiento de Software :minidisc:
-- Diseño digital :paintbrush:
+- :globe_with_meridians: Desarrollo de aplicaciones web 
+- :iphone: Desarrollo de aplicaciones móviles 
+- :space_invader: Entorno Linux & Windows 
+- :minidisc: Mantenimiento de Software 
+- :paintbrush: Diseño digital 
 
-## Dev Skills
+## :computer: Dev Skills
 
 - **Lenguajes**
 
@@ -52,14 +52,14 @@ Me considero **autodidacta** con muchas ganas de adquirir nuevas experiencias y 
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
 
-## Design Skills
+## :art: Design Skills
 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Passport](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Passport](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
   ![Passport](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=adobe-after-effects)
   
-## 😄 Intereses
+## :tv: Intereses
 
 - DevOps
 - Linux
@@ -68,21 +68,21 @@ Me considero **autodidacta** con muchas ganas de adquirir nuevas experiencias y 
 - Gadgets
 - Series/Películas/Anime
 
-## Proyectos
+## :rocket: Proyectos
 
-- [MoonBank]()
+- [MoonBank](https://github.com/karlofsd/MoonBank.git)
 
     `Proyecto e-Wallet`
 
-- [Henry Comics]()
+- [Henry Comics](https://github.com/karlofsd/Henry-Comics)
 
   `Proyecto e-Commerce`
 
-- [ML Search!]()
+- [ML Search!](https://github.com/karlofsd/ML-Search)
 
   `Proyecto APIrest`
 
-- [Watchuseek]()
+- [Watchuseek](https://github.com/karlofsd/Wachuseek)
 
   `Proyecto e-Commerce`
 
