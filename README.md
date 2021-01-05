@@ -57,7 +57,7 @@ Me considero **autodidacta** con muchas ganas de adquirir nuevas experiencias y 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Passport](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Passport](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-  ![Passport](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=adobe-after-effects)
+  ![Passport](https://img.shields.io/badge/-After_Effects-333333?style=flat&logo=adobe-after-effects)
   
 ## :tv: Intereses
 
