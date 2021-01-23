@@ -87,6 +87,7 @@ Me considero **autodidacta** con muchas ganas de adquirir nuevas experiencias y 
   `Proyecto e-Commerce`
 
 ## 📫 Contactame
-  ![Linkedin](https://img.shields.io/badge/-Karlo_Soberon-333333?style=flat&logo=linkedin)
-  ![Instagram](https://img.shields.io/badge/-@sober.kf-333333?style=flat&logo=instagram)
-  ![Gmail](https://img.shields.io/badge/-sober.karlo@gmail.com-333333?style=flat&logo=gmail)
+  [![Linkedin](https://img.shields.io/badge/-Karlo_Soberon-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/karlof-soberon)
+  [![Instagram](https://img.shields.io/badge/-@sober.kf-333333?style=flat&logo=instagram)](https://www.instagram.com/sober.kf)
+  [![Gmail](https://img.shields.io/badge/-sober.karlo@gmail.com-333333?style=flat&logo=gmail)](mailto:sober.karlo@gmail.com)
+  [![Portafolio](https://img.shields.io/badge/-Portafolio-333333?style=flat&logo=star)](https://portfolio-karlofsd.vercel.app)
